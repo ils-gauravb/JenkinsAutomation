@@ -13,6 +13,7 @@ import org.testng.annotations.*;
 public class LoginSusu {
 WebDriver driver;
 
+
 @BeforeClass
 public void setUp() throws MalformedURLException{
 	//Set up desired capabilities and pass the Android app-activity and app-package to Appium
