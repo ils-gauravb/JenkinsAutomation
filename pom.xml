@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>HRMSys</groupId>
-  <artifactId>HRMSys</artifactId>
+  <groupId>testing</groupId>
+  <artifactId>testing</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>HRMSys</name>
+  <name>testing</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -15,11 +15,11 @@
   </properties>
 
   <dependencies>
-      <dependency>
+   <dependency>
           <groupId>org.testng</groupId>
           <artifactId>testng</artifactId>
           <version>6.8</version>
-          <scope>compile</scope>
+          <scope>test</scope>
       </dependency>
    
     <dependency>
@@ -27,6 +27,5 @@
         <artifactId>selenium-java</artifactId>
         <version>3.11.0</version>
     </dependency>  
-   
   </dependencies>
 </project>

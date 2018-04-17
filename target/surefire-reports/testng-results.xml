@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="com.qa.tests.DemoTest" duration-ms="34160" started-at="2018-04-17T14:58:57Z" finished-at="2018-04-17T14:59:31Z">
+  <suite name="com.qa.tests.hrmsTest" duration-ms="24783" started-at="2018-04-17T16:43:58Z" finished-at="2018-04-17T16:44:22Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="34160" started-at="2018-04-17T14:58:57Z" finished-at="2018-04-17T14:59:31Z">
-      <class name="com.qa.tests.DemoTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="beforeTest" is-config="true" duration-ms="4546" started-at="2018-04-17T20:28:57Z" finished-at="2018-04-17T20:29:02Z">
+    <test name="Command line test" duration-ms="24783" started-at="2018-04-17T16:43:58Z" finished-at="2018-04-17T16:44:22Z">
+      <class name="com.qa.tests.hrmsTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="beforeTest" is-config="true" duration-ms="1527" started-at="2018-04-17T22:13:58Z" finished-at="2018-04-17T22:13:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="mon()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="mon" duration-ms="6" started-at="2018-04-17T20:29:02Z" finished-at="2018-04-17T20:29:02Z">
+        <test-method status="PASS" signature="mon()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="mon" duration-ms="5" started-at="2018-04-17T22:13:59Z" finished-at="2018-04-17T22:13:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mon -->
-        <test-method status="PASS" signature="tues()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="tues" duration-ms="1" started-at="2018-04-17T20:29:02Z" finished-at="2018-04-17T20:29:02Z">
+        <test-method status="PASS" signature="tues()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="tues" duration-ms="1" started-at="2018-04-17T22:13:59Z" finished-at="2018-04-17T22:13:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tues -->
-        <test-method status="PASS" signature="two()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="two" duration-ms="24717" started-at="2018-04-17T20:29:02Z" finished-at="2018-04-17T20:29:26Z">
+        <test-method status="PASS" signature="two()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="two" duration-ms="20482" started-at="2018-04-17T22:13:59Z" finished-at="2018-04-17T22:14:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- two -->
-        <test-method status="PASS" signature="v()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="v" duration-ms="3964" started-at="2018-04-17T20:29:26Z" finished-at="2018-04-17T20:29:30Z">
+        <test-method status="PASS" signature="v()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="v" duration-ms="2641" started-at="2018-04-17T22:14:20Z" finished-at="2018-04-17T22:14:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- v -->
-        <test-method status="PASS" signature="wed()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="wed" duration-ms="0" started-at="2018-04-17T20:29:30Z" finished-at="2018-04-17T20:29:30Z">
+        <test-method status="PASS" signature="wed()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="wed" duration-ms="0" started-at="2018-04-17T22:14:22Z" finished-at="2018-04-17T22:14:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- wed -->
-        <test-method status="PASS" signature="zs()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="zs" duration-ms="1" started-at="2018-04-17T20:29:30Z" finished-at="2018-04-17T20:29:30Z">
+        <test-method status="PASS" signature="zs()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="zs" duration-ms="0" started-at="2018-04-17T22:14:22Z" finished-at="2018-04-17T22:14:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- zs -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.tests.DemoTest@60f82f98]" name="afterTest" is-config="true" duration-ms="899" started-at="2018-04-17T20:29:30Z" finished-at="2018-04-17T20:29:31Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.tests.hrmsTest@6aaa5eb0]" name="afterTest" is-config="true" duration-ms="107" started-at="2018-04-17T22:14:22Z" finished-at="2018-04-17T22:14:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- com.qa.tests.DemoTest -->
+      </class> <!-- com.qa.tests.hrmsTest -->
     </test> <!-- Command line test -->
-  </suite> <!-- com.qa.tests.DemoTest -->
+  </suite> <!-- com.qa.tests.hrmsTest -->
 </testng-results>
