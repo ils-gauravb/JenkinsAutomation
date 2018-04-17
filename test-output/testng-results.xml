@@ -1,29 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="41586" started-at="2018-04-12T09:13:45Z" finished-at="2018-04-12T09:14:26Z">
+  <suite name="Default suite" duration-ms="34888" started-at="2018-04-17T12:26:09Z" finished-at="2018-04-17T12:26:44Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="41586" started-at="2018-04-12T09:13:45Z" finished-at="2018-04-12T09:14:26Z">
-      <class name="First.NewTest">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:First.NewTest@239963d8]" name="beforeTest" is-config="true" duration-ms="3647" started-at="2018-04-12T14:43:45Z" finished-at="2018-04-12T14:43:48Z">
+    <test name="Default test" duration-ms="34888" started-at="2018-04-17T12:26:09Z" finished-at="2018-04-17T12:26:44Z">
+      <class name="com.qa.tests.DemoTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="beforeTest" is-config="true" duration-ms="4901" started-at="2018-04-17T17:56:09Z" finished-at="2018-04-17T17:56:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="two()[pri:0, instance:First.NewTest@239963d8]" name="two" duration-ms="32725" started-at="2018-04-12T14:43:48Z" finished-at="2018-04-12T14:44:21Z">
+        <test-method status="PASS" signature="mon()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="mon" duration-ms="13" started-at="2018-04-17T17:56:14Z" finished-at="2018-04-17T17:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mon -->
+        <test-method status="PASS" signature="tues()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="tues" duration-ms="2" started-at="2018-04-17T17:56:14Z" finished-at="2018-04-17T17:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tues -->
+        <test-method status="PASS" signature="two()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="two" duration-ms="25171" started-at="2018-04-17T17:56:14Z" finished-at="2018-04-17T17:56:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- two -->
-        <test-method status="PASS" signature="v()[pri:0, instance:First.NewTest@239963d8]" name="v" duration-ms="3994" started-at="2018-04-12T14:44:21Z" finished-at="2018-04-12T14:44:25Z">
+        <test-method status="PASS" signature="v()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="v" duration-ms="3896" started-at="2018-04-17T17:56:39Z" finished-at="2018-04-17T17:56:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- v -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:First.NewTest@239963d8]" name="afterTest" is-config="true" duration-ms="1195" started-at="2018-04-12T14:44:25Z" finished-at="2018-04-12T14:44:26Z">
+        <test-method status="PASS" signature="wed()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="wed" duration-ms="23" started-at="2018-04-17T17:56:43Z" finished-at="2018-04-17T17:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wed -->
+        <test-method status="PASS" signature="zs()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="zs" duration-ms="3" started-at="2018-04-17T17:56:43Z" finished-at="2018-04-17T17:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- zs -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.tests.DemoTest@6d00a15d]" name="afterTest" is-config="true" duration-ms="857" started-at="2018-04-17T17:56:43Z" finished-at="2018-04-17T17:56:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
-      </class> <!-- First.NewTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- com.qa.tests.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
