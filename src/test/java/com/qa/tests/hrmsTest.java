@@ -56,7 +56,7 @@ public void beforeTest() {
 	option.setHeadless(true); 
 	option.addArguments("--headless","--no-sandbox");
 	System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
-	driver = new ChromeDriver();
+	driver = new ChromeDriver(option);
 	 
 }
 
